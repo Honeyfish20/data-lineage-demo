@@ -1,0 +1,13 @@
+{
+    "lineage_map": {
+        "sales_org": [
+            "sales_stg"
+        ],
+        "sales_stg": [
+            "sales_dl"
+        ],
+        "sales_dl": [
+            "sales"
+        ]
+    }
+}
