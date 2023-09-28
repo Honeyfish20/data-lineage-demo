@@ -1,0 +1,20 @@
+{
+    "lineage_map": {
+        "base_public_sales": [
+            "total_sales_by_event"
+        ],
+        "base_public_event": [
+            "total_sales_by_event"
+        ],
+        "total_sales_by_event": [
+            "top_events_by_sales"
+        ],
+        "top_events_by_sales": [],
+        "event": [
+            "base_public_event"
+        ],
+        "sales": [
+            "base_public_sales"
+        ]
+    }
+}
